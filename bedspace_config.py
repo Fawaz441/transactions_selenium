@@ -1,0 +1,10 @@
+USERNAME = '****'
+PASSWORD = '****'
+LOGIN_URL = 'https://eportal.oauife.edu.ng/login.php'
+USERNAME_INPUT = '/html/body/div/div/div/div[1]/div/section/form/div[1]/input'
+PASSWORD_INPUT = '/html/body/div/div/div/div[1]/div/section/form/div[2]/input'
+LOGIN_BTN = '/html/body/div/div/div/div[1]/div/section/form/div[5]/input'
+SEX_SELECT = '//*[@id="Sex"]'
+
+BEDSPACE_URL = 'https://eportal.oauife.edu.ng/bedspaceallocationfinalyear1.php'
+APPLY_BTN = '/html/body/div/div/div/div[1]/div/section/form/div[2]/input'
